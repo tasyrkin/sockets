@@ -33,3 +33,4 @@
 
 #executable
 test_socket
+print_struct
